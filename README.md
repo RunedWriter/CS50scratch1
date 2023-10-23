@@ -1,2 +1,2 @@
-# CS50scratch1
-Simple Maze
+# CS50
+My coding files for CS50 Course
